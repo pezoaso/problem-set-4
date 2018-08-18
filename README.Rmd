@@ -76,4 +76,4 @@ the motif match. You can use the `meme-get-motif` to extract the first motif fro
 meme-get-motif -id 1 < meme.txt
 ```
 
-Copy the numeric matrix into the the search box on the tomtom site and report which motif it matches.
+Copy the numeric matrix into the search box on the tomtom site and report which motif it matches.
